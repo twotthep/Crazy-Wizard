@@ -1,0 +1,534 @@
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_MacroVariation.uasset" 0
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 2
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Gold.uasset" 3
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Character/BallMesh.uasset" 4
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/PhysicsBallBP.uasset" 5
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Widget/GameOverwithRestart.uasset" 6
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/GameOverwithRestart.uasset" 7
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Widget/HUD.uasset" 8
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/HUD.uasset" 9
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Widget/WinTrollLevel.uasset" 10
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/WinTrollLevel.uasset" 11
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 12
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 13
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 14
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 15
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 16
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 17
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPersonRun.uasset" 18
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 19
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 20
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 21
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 23
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 24
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 25
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 26
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 27
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 28
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 29
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 30
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 31
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 32
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 33
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 34
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 35
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 36
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 37
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 38
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 39
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 40
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 41
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Jump.uasset" 42
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Jump_Cue.uasset" 43
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Rolling_Hard.uasset" 44
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Rolling.uasset" 45
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Basic_Wall.uasset" 46
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Pillar_50x500.uasset" 47
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_400x300.uasset" 48
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_400x400.uasset" 49
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_500x500.uasset" 50
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 51
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 52
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Collapse01.uasset" 53
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Collapse02.uasset" 54
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Explosion01.uasset" 55
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Explosion02.uasset" 56
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Fire01.uasset" 57
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Fire_Sparks01.uasset" 58
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Light01.uasset" 59
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Light01_Cue.uasset" 60
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Light02.uasset" 61
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Light02_Cue.uasset" 62
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Smoke01.uasset" 63
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Starter_Birds01.uasset" 64
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Starter_Music01.uasset" 65
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Starter_Wind05.uasset" 66
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Starter_Wind06.uasset" 67
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Steam01.uasset" 68
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Explosion_Cue.uasset" 69
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Burst_M.uasset" 70
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_Burst.uasset" 71
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 72
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 73
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 75
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 76
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 77
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 78
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 79
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/P_Explosion.uasset" 80
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 81
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 82
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 83
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Bush_D.uasset" 84
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Bush_N.uasset" 85
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Bush.uasset" 86
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Bush.uasset" 87
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Chair_M.uasset" 88
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Chair_N.uasset" 89
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Chair.uasset" 90
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Couch.uasset" 91
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Glass.uasset" 92
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Door_M.uasset" 93
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Door_N.uasset" 94
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Door.uasset" 95
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Door.uasset" 96
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 97
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 98
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 99
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 100
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 101
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_RockMesh_M.uasset" 102
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_RockMesh_N.uasset" 103
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Rock.uasset" 104
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Rock.uasset" 105
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Shelf_M.uasset" 106
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Shelf_N.uasset" 107
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Shelf.uasset" 108
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Shelf.uasset" 109
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Basic_Floor.uasset" 110
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Stairs.uasset" 111
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Cone.uasset" 112
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 113
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 114
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Pipe.uasset" 115
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 116
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 117
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Plane.uasset" 118
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Torus.uasset" 119
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Trim.uasset" 120
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 121
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 122
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 123
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Tube.uasset" 124
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 125
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 126
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 127
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 129
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 130
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 131
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 132
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 133
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 134
+"../../../Engine/Content/BasicShapes/Cone.uasset" 135
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 136
+"../../../Engine/Content/BasicShapes/Plane.uasset" 137
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 138
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 139
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 140
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 141
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 142
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 143
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 144
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 145
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 146
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 147
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 148
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 149
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 150
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 154
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 155
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 156
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 157
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 158
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 159
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 160
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 161
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 162
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 163
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 164
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 165
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 166
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 167
+"../../../Engine/Content/EditorResources/S_Note.uasset" 168
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 169
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 170
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 171
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 172
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 173
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 174
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 175
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 176
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 177
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 178
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 179
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 180
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 181
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 182
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 183
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 184
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 185
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 188
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 189
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 190
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 191
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 192
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 193
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 194
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 195
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 196
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 197
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 198
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 199
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 200
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 201
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 203
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 205
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 208
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 209
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 210
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 212
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 213
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 214
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 215
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 216
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 218
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 219
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 220
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 221
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 222
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 223
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 224
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 225
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 226
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 227
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 228
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 230
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 231
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 232
+"../../../Engine/Content/EngineResources/Black.uasset" 233
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 234
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 235
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 236
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 237
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 238
+"../../../Engine/Content/EngineSounds/Master.uasset" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 241
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 242
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 243
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 244
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 245
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 246
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 247
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 248
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 262
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 263
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 264
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 265
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 266
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 267
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 268
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 269
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 270
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 271
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 272
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 273
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 274
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 275
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 276
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 277
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 278
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 279
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 280
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 281
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 284
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 285
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 286
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 287
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 288
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 289
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 290
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 291
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 292
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 293
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 294
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 295
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 296
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 297
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 298
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 299
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 300
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 301
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 302
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 303
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 304
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 305
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 306
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 307
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 308
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 309
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 310
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 311
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Character/ThirdPersonCharacter.uasset" 312
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Marble_Blast_Ultra_Soundtrack.uasset" 313
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Character/BallGameMode.uasset" 314
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage01_BuiltData.uasset" 315
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 316
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 317
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Wood_Oak.uasset" 318
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Geometry/Meshes/CubeMaterial.uasset" 319
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Geometry/Meshes/1M_Cube.uasset" 320
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 321
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Geometry/Meshes/TemplateFloor.uasset" 322
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/ThirdPerson/Meshes/RampMaterial.uasset" 323
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 324
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 325
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 326
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 327
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 328
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage01.umap" 329
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Character/ThirdPersonGameMode.uasset" 330
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage02_BuiltData.uasset" 331
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 332
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 333
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 334
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 335
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 336
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 337
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 338
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 339
+"../../../Engine/Content/BasicShapes/Cube.uasset" 340
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Cube.uasset" 341
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage02.umap" 342
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage03_BuiltData.uasset" 343
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 344
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 345
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 346
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 347
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 348
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage03.umap" 349
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 350
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 351
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 352
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 353
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 354
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 355
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 356
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 357
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 358
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 359
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 360
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 361
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 362
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_AssetPlatform.uasset" 363
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 364
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 365
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 366
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 367
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 368
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 369
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 370
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 371
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Maps/Advanced_Lighting.umap" 372
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 373
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 374
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 375
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 376
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 377
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Copper.uasset" 378
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Statue_M.uasset" 379
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Statue_N.uasset" 380
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 381
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Floor_400x400.uasset" 382
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 383
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Chair.uasset" 384
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Statue.uasset" 385
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Statue.uasset" 386
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_TableRound_M.uasset" 387
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_TableRound_N.uasset" 388
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_TableRound.uasset" 389
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_TableRound.uasset" 390
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Maps/Minimal_Default.umap" 391
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Fire01_Cue.uasset" 392
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 393
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 394
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 395
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Water_N.uasset" 396
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 397
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 398
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/P_Fire.uasset" 399
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 400
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Smoke01_Cue.uasset" 401
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/P_Smoke.uasset" 402
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 403
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 404
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Spark_Core.uasset" 405
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_Spark.uasset" 406
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/P_Sparks.uasset" 407
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 408
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Steam01_Cue.uasset" 409
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/P_Steam_Lit.uasset" 410
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 411
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Lamp_M.uasset" 412
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Lamp_N.uasset" 413
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Lamp.uasset" 414
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 415
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 416
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 417
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 418
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 419
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 420
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 421
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 422
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 423
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 424
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 425
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 426
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 427
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 428
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 429
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 430
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 431
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 432
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 433
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 434
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 435
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 436
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 437
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 438
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 439
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 440
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 441
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 442
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Gradinet_01.uasset" 443
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 444
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 445
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 446
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 447
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 448
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 449
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 450
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 451
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 452
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 453
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 454
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 455
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 456
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 457
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 458
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 459
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 460
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 461
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 462
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 463
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 464
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 465
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Ground_Grass.uasset" 466
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 467
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 468
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 469
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 470
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 471
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Ground_Moss.uasset" 472
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 473
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 474
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Rust.uasset" 475
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 476
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 477
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Metal_Steel.uasset" 478
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 479
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 480
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 481
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 482
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 483
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 484
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 485
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 486
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Rock_Slate.uasset" 487
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 488
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 489
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 490
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 491
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 492
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 493
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 494
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Tech_Panel.uasset" 495
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Water_Lake.uasset" 496
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Water_M.uasset" 497
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Water_Ocean.uasset" 498
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 499
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 500
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 501
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 502
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 503
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 504
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 505
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 506
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Wood_Pine.uasset" 507
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 508
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 509
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 510
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_400x200.uasset" 511
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 512
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 513
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Collapse_Cue.uasset" 514
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 515
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 516
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 517
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 518
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/MaterialSphere.uasset" 519
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Frame_M.uasset" 520
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Textures/T_Frame_N.uasset" 521
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/Materials/M_Frame.uasset" 522
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_CornerFrame.uasset" 523
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_DoorFrame.uasset" 524
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_GlassWindow.uasset" 525
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_PillarFrame.uasset" 526
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_PillarFrame300.uasset" 527
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Props/SM_WindowFrame.uasset" 528
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 529
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Shapes/Shape_Sphere.uasset" 530
+"../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/StarterContent/Maps/StarterMap.umap" 531
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 532
+"../../../Engine/Content/Maps/Entry.umap" 533

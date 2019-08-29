@@ -1,0 +1,850 @@
+﻿Log file open, 05/16/19 12:41:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TihearMarbleV2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282614
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.16-05.41.15:574][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.16-05.41.15:574][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.16-05.41.15:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:574][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.16-05.41.15:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:574][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.16-05.41.15:574][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.16-05.41.15:574][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.16-05.41.15:575][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.16-05.41.15:576][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.16-05.41.15:576][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.16-05.41.15:576][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:576][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:591][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-05.41.15:591][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-05.41.15:592][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-05.41.15:593][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-05.41.15:594][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-05.41.15:594][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-05.41.15:594][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.16-05.41.15:632][  0]LogHAL: Display: Platform has ~ 16 GB [17049808896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.16-05.41.15:632][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.16-05.41.15:633][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.16-05.41.15:633][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-05.41.15:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-05.41.15:634][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.16-05.41.15:635][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.16-05.41.15:635][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.16-05.41.15:635][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.16-05.41.15:635][  0]LogInit: Computer: TECHG-WS72
+[2019.05.16-05.41.15:635][  0]LogInit: User: MrTechG
+[2019.05.16-05.41.15:635][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.16-05.41.15:635][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.16-05.41.15:635][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.16-05.41.15:635][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.16-05.41.15:635][  0]LogMemory: Process Physical Memory: 97.71 MB used, 97.71 MB peak
+[2019.05.16-05.41.15:635][  0]LogMemory: Process Virtual Memory: 100.48 MB used, 100.48 MB peak
+[2019.05.16-05.41.15:635][  0]LogMemory: Physical Memory: 5254.45 MB used,  11005.52 MB free, 16259.96 MB total
+[2019.05.16-05.41.15:636][  0]LogMemory: Virtual Memory: 4667.98 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.05.16-05.41.15:659][  0]LogInit: Using OS detected language (en-US).
+[2019.05.16-05.41.15:659][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.16-05.41.15:660][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.16-05.41.15:855][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.16-05.41.15:907][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.16-05.41.15:907][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.16-05.41.16:157][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-05.41.16:157][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.16-05.41.16:233][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M2000M' (Feature Level 11_0)
+[2019.05.16-05.41.16:233][  0]LogD3D11RHI:       4055/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.16-05.41.16:246][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.05.16-05.41.16:246][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.16-05.41.16:249][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.16-05.41.16:249][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.16-05.41.16:249][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.16-05.41.16:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.16-05.41.16:298][  0]LogD3D11RHI:     GPU DeviceId: 0x13b0 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.16-05.41.16:298][  0]LogWindows: EnumDisplayDevices:
+[2019.05.16-05.41.16:298][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2019.05.16-05.41.16:298][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.05.16-05.41.16:299][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.05.16-05.41.16:299][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.16-05.41.16:299][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M2000M
+[2019.05.16-05.41.16:299][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.16-05.41.16:299][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.16-05.41.16:299][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2019.05.16-05.41.16:353][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.16-05.41.16:358][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.16-05.41.16:358][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.16-05.41.16:358][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.16-05.41.16:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.16-05.41.16:720][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.16-05.41.16:735][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.16-05.41.16:760][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.16-05.41.16:780][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.16-05.41.16:797][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.16-05.41.16:814][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.16-05.41.16:830][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.16-05.41.16:845][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.16-05.41.16:853][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.16-05.41.16:940][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.16-05.41.16:941][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.16-05.41.16:941][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.16-05.41.16:941][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.16-05.41.16:941][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.16-05.41.16:942][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.16-05.41.17:007][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.16-05.41.17:007][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.16-05.41.17:039][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.16-05.41.17:039][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.16-05.41.17:053][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.16-05.41.17:066][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.16-05.41.17:079][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.16-05.41.17:094][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.16-05.41.17:144][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.16-05.41.17:144][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.16-05.41.17:144][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.16-05.41.17:152][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.16-05.41.17:203][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Intermediate/Shaders/WorkingDirectory/6780/).
+[2019.05.16-05.41.17:203][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr. Tech_G/AppData/Local/Temp/UnrealShaderWorkingDir/ABA3F2B94272299506EAB2BE92580AC4/'.
+[2019.05.16-05.41.17:217][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.05.16-05.41.17:809][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.16-05.41.17:860][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Mr. Tech_G/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.16-05.41.17:860][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr. Tech_G/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.16-05.41.17:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.16-05.41.17:860][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.16-05.41.17:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-05.41.17:860][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.16-05.41.17:874][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.16-05.41.17:874][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-05.41.17:874][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.16-05.41.17:886][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr. Tech_G/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.16-05.41.17:886][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.16-05.41.17:886][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.16-05.41.17:910][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.16-05.41.17:911][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.16-05.41.17:911][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.16-05.41.17:998][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2019.05.16-05.41.18:352][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-05.41.18:497][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.16-05.41.18:497][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.16-05.41.18:497][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.16-05.41.18:497][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.16-05.41.18:497][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.16-05.41.18:511][  0]LogNetVersion: TihearMarbleV2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1881101847)
+[2019.05.16-05.41.18:962][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.057821 seconds
+[2019.05.16-05.41.18:969][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.16-05.41.18:969][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.16-05.41.18:969][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.16-05.41.19:830][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.16-05.41.19:853][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.16-05.41.19:959][  0]SourceControl: Source control is disabled
+[2019.05.16-05.41.19:960][  0]SourceControl: Source control is disabled
+[2019.05.16-05.41.19:961][  0]SourceControl: Source control is disabled
+[2019.05.16-05.41.19:962][  0]SourceControl: Source control is disabled
+[2019.05.16-05.41.20:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.16-05.41.20:115][  0]LogOcInput: OculusInput pre-init called
+[2019.05.16-05.41.20:826][  0]LogEngine: Initializing Engine...
+[2019.05.16-05.41.20:826][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-05.41.20:827][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.16-05.41.21:051][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.16-05.41.21:072][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.16-05.41.21:092][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.41.21:455][  0]LogInit: FAudioDevice initialized.
+[2019.05.16-05.41.21:455][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.16-05.41.21:508][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Mr. Tech_G/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.16-05.41.21:514][  0]LogInit: Texture streaming: Enabled
+[2019.05.16-05.41.21:553][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.16-05.41.21:598][  0]LogInit: Transaction tracking system initialized
+[2019.05.16-05.41.21:623][  0]BlueprintLog: New page: Editor Load
+[2019.05.16-05.41.21:712][  0]LocalizationService: Localization service is disabled
+[2019.05.16-05.41.21:830][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/ThirdPersonBP/ThirdPersonOverview'
+[2019.05.16-05.41.21:830][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/ThirdPersonBP/ThirdPersonOverview'
+[2019.05.16-05.41.21:830][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.05.16-05.41.22:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/' took 0.01s
+[2019.05.16-05.41.22:036][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.16-05.41.22:036][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.16-05.41.22:237][  0]SourceControl: Source control is disabled
+[2019.05.16-05.41.22:237][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Maps/Stage01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-05.41.22:237][  0]LightingResults: New page: Lighting Build
+[2019.05.16-05.41.22:241][  0]MapCheck: New page: Map Check
+[2019.05.16-05.41.22:241][  0]LightingResults: New page: Lighting Build
+[2019.05.16-05.41.22:269][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.16-05.41.22:666][  0]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.41.22:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-05.41.22:703][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.05.16-05.41.22:703][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-05.41.22:703][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2019.05.16-05.41.22:703][  0]LogFileHelpers: Loading map 'Stage01' took 0.466
+[2019.05.16-05.41.22:819][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.41.22:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.41.22:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.41.22:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.41.22:851][  0]LogCollectionManager: Loaded 0 collections in 0.001709 seconds
+[2019.05.16-05.41.22:868][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Collections/' took 0.01s
+[2019.05.16-05.41.22:868][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Developers/MrTechG/Collections/' took 0.00s
+[2019.05.16-05.41.22:868][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Collections/' took 0.00s
+[2019.05.16-05.41.22:868][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.16-05.41.22:877][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2732 classes and 659 folders.
+[2019.05.16-05.41.22:884][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.16-05.41.22:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-05.41.22:921][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-05.41.22:927][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.16-05.41.23:000][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.16-05.41.23:003][  0]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.16-05.41.23:011][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.16-05.41.23:081][  0]LogRenderer: Reallocating scene render targets to support 1208x520 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-05.41.23:293][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-05.41.23:293][  0]LogLoad: (Engine Initialization) Total time: 9.52 seconds
+[2019.05.16-05.41.23:293][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.16-05.41.23:357][  0]LogAssetRegistry: Asset discovery search completed in 5.3811 seconds
+[2019.05.16-05.41.23:359][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.16-05.41.23:359][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2019.05.16-05.41.23:360][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.16-05.41.23:464][  0]LogRenderer: Reallocating scene render targets to support 1208x536 Format 10 NumSamples 1 (Frame:3).
+[2019.05.16-05.41.23:464][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-05.41.23:469][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/' took 0.15s
+[2019.05.16-05.41.33:251][582]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.05.16-05.41.37:638][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.41.55:739][144]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-05.41.55:757][144]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Mr. Tech_G\Desktop\TihearMarbleV2 4.22\Content\Sounds\smb_jump-small.wav)
+[2019.05.16-05.41.55:765][144]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Mr. Tech_G\Desktop\TihearMarbleV2 4.22\Content\Sounds\smb_pipe.wav)
+[2019.05.16-05.41.55:770][144]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Mr. Tech_G\Desktop\TihearMarbleV2 4.22\Content\Sounds\smb_powerup.wav)
+[2019.05.16-05.41.55:801][144]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Mr. Tech_G\Desktop\TihearMarbleV2 4.22\Content\Sounds\3.10 Decisive Battle II.mp3)
+[2019.05.16-05.42.05:237][634]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave smb_jump-small...
+[2019.05.16-05.42.05:254][634]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 26024 while cooking SoundWave /Game/Sounds/smb_jump-small.smb_jump-small.
+[2019.05.16-05.42.13:211][938]LogAssetEditorManager: Opening Asset editor for FileMediaSource /Game/Sounds/3_10_Decisive_Battle_II.3_10_Decisive_Battle_II
+[2019.05.16-05.42.16:587][135]LogSlate: Window '3_10_Decisive_Battle_II' being destroyed
+[2019.05.16-05.42.16:592][135]LogSlate: Window '3_10_Decisive_Battle_II' being destroyed
+[2019.05.16-05.43.20:778][951]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.16-05.43.21:208][951]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.05.16-05.43.22:159][951]LogSlate: Took 0.003988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.16-05.43.22:392][952]LogSlate: Took 0.004815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.16-05.44.03:540][358]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.44.03:564][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.03:564][358]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.16-05.44.03:567][358]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.05.16-05.44.03:771][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.05.16-05.44.03:771][358]LogPlayLevel: PlayLevel: Blueprint regeneration took 206 ms (1 blueprints)
+[2019.05.16-05.44.03:771][358]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:44:03 PM)
+[2019.05.16-05.44.03:785][358]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.44.03:802][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016901s)
+[2019.05.16-05.44.03:802][358]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.44.03:803][358]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2019.05.16-05.44.03:803][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.018584s)
+[2019.05.16-05.44.03:837][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.05.16-05.44.03:845][358]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.44.03:863][358]LogInit: FAudioDevice initialized.
+[2019.05.16-05.44.03:913][358]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.44.03:916][358]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.44.03
+[2019.05.16-05.44.03:917][358]LogWorld: Bringing up level for play took: 0.001815
+[2019.05.16-05.44.03:936][358]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.05.16-05.44.03:941][358]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.05.16-05.44.03:941][358]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.16-05.44.03:947][358]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 -0.142
+[2019.05.16-05.44.03:947][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.05:655][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.05:656][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.44.05:685][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.44.05:685][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.05:732][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.44.05:757][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.05.16-05.44.05:777][437]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.16-05.44.06:686][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.44.06:752][494]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.16-05.44.06:946][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.05.16-05.44.07:567][518]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/ThirdPersonCharacterBD22BCDF4014C3EC8101968AC47FCA9B.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2019.05.16-05.44.10:279][677]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.44.10:298][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.10:298][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-05.44.10:298][677]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:44:10 PM)
+[2019.05.16-05.44.10:298][677]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.44.10:311][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012781s)
+[2019.05.16-05.44.10:312][677]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.44.10:312][677]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2019.05.16-05.44.10:312][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.013918s)
+[2019.05.16-05.44.10:353][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.05.16-05.44.10:359][677]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.44.10:376][677]LogInit: FAudioDevice initialized.
+[2019.05.16-05.44.10:408][677]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.44.10:410][677]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.44.10
+[2019.05.16-05.44.10:410][677]LogWorld: Bringing up level for play took: 0.000867
+[2019.05.16-05.44.10:424][677]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.335
+[2019.05.16-05.44.10:424][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.17:778][117]LogNet: Browse: /Game/Blueprints/Maps/Stage02
+[2019.05.16-05.44.17:778][117]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage02
+[2019.05.16-05.44.17:822][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.05.16-05.44.18:075][117]LogAIModule: Creating AISystem for world Stage02
+[2019.05.16-05.44.18:075][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-05.44.18:082][117]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage02.Stage02 up for play (max tick rate 60) at 2019.05.16-12.44.18
+[2019.05.16-05.44.18:083][117]LogWorld: Bringing up level for play took: 0.006156
+[2019.05.16-05.44.18:087][117]LogLoad: Took 0.309021 seconds to LoadMap(/Game/Blueprints/Maps/Stage02)
+[2019.05.16-05.44.20:012][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.20:013][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.44.20:043][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.44.20:043][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.20:085][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.44.20:091][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.05.16-05.44.20:116][233]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.05.16-05.44.22:801][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-05.44.29:323][726]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.16-05.44.29:542][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.05.16-05.44.30:097][748]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/ThirdPersonCharacter42A4576E44C1B82DEBACF58DED73C91B.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2019.05.16-05.44.32:702][901]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.44.32:722][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.32:722][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-05.44.32:722][901]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:44:32 PM)
+[2019.05.16-05.44.32:722][901]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.44.32:737][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014065s)
+[2019.05.16-05.44.32:737][901]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.44.32:738][901]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2019.05.16-05.44.32:738][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.015094s)
+[2019.05.16-05.44.32:782][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.05.16-05.44.32:788][901]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.44.32:805][901]LogInit: FAudioDevice initialized.
+[2019.05.16-05.44.32:836][901]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.44.32:837][901]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.44.32
+[2019.05.16-05.44.32:838][901]LogWorld: Bringing up level for play took: 0.000988
+[2019.05.16-05.44.32:851][901]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.762
+[2019.05.16-05.44.32:852][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.46:458][715]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.46:459][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.44.46:489][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.44.46:489][715]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.44.46:531][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.44.46:536][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.05.16-05.44.46:564][716]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.16-05.49.31:550][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-05.49.33:943][773]AssetReimport: New page: Outstanding source content changes 7:49:33 PM
+[2019.05.16-05.49.33:944][773]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Rolling_Hard.wav)
+[2019.05.16-05.49.33:948][773]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Jump.wav)
+[2019.05.16-05.49.33:990][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rolling_Hard" FILE="../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Rolling_Hard.uasset" SILENT=true
+[2019.05.16-05.49.34:000][773]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Rolling_Hard31D5605E43DDB9D367E26BA9A5E3DE69.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Rolling_Hard.uasset'
+[2019.05.16-05.49.34:020][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Jump" FILE="../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Jump.uasset" SILENT=true
+[2019.05.16-05.49.34:030][773]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Jump213F2E7E4297F53630E7D4AF8BD3B834.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Jump.uasset'
+[2019.05.16-05.49.37:051][952]AssetReimport: Importing new asset /Game/Sounds/Rolling_Hard.
+[2019.05.16-05.49.37:051][952]AssetReimport: Importing new asset /Game/Sounds/Jump.
+[2019.05.16-05.49.43:157][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.05.16-05.49.46:657][315]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.16-05.49.46:666][315]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.05.16-05.49.46:759][315]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sounds/jump_cue.jump_cue
+[2019.05.16-05.49.48:229][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.05.16-05.49.48:864][353]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Jump...
+[2019.05.16-05.49.48:870][353]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2940 while cooking SoundWave /Game/Sounds/Jump.Jump.
+[2019.05.16-05.49.54:944][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.05.16-05.49.56:779][710]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.16-05.49.56:870][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.05.16-05.49.59:129][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.16-05.49.59:963][843]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.16-05.50.00:065][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.05.16-05.50.01:056][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.05.16-05.50.01:780][901]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.16-05.50.01:867][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.05.16-05.50.07:849][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.05.16-05.50.08:833][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.50.08:917][316]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Rolling_Hard...
+[2019.05.16-05.50.08:928][316]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 83724 while cooking SoundWave /Game/Sounds/Rolling_Hard.Rolling_Hard.
+[2019.05.16-05.50.30:996][630]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.16-05.50.44:282][344]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.50.44:309][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.50.44:309][344]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.16-05.50.44:310][344]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.05.16-05.50.44:517][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.05.16-05.50.44:517][344]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (1 blueprints)
+[2019.05.16-05.50.44:517][344]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:50:44 PM)
+[2019.05.16-05.50.44:518][344]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.50.44:532][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013846s)
+[2019.05.16-05.50.44:533][344]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.50.44:533][344]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2019.05.16-05.50.44:533][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.015461s)
+[2019.05.16-05.50.44:574][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.05.16-05.50.44:580][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.50.44:600][344]LogInit: FAudioDevice initialized.
+[2019.05.16-05.50.44:635][344]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.50.44:638][344]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.50.44
+[2019.05.16-05.50.44:638][344]LogWorld: Bringing up level for play took: 0.001925
+[2019.05.16-05.50.44:652][344]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.563
+[2019.05.16-05.50.44:652][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.50.50:634][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.50.50:635][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.50.50:669][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.50.50:669][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.50.50:709][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.50.50:714][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.05.16-05.50.50:736][694]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.16-05.50.55:021][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.51.31:623][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.51.31:643][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.51.31:643][ 92]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.16-05.51.31:644][ 92]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.05.16-05.51.31:846][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.05.16-05.51.31:846][ 92]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2019.05.16-05.51.31:846][ 92]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:51:31 PM)
+[2019.05.16-05.51.31:846][ 92]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.51.31:861][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014528s)
+[2019.05.16-05.51.31:861][ 92]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.51.31:862][ 92]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2019.05.16-05.51.31:862][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.015550s)
+[2019.05.16-05.51.31:900][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.05.16-05.51.31:906][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.51.31:923][ 92]LogInit: FAudioDevice initialized.
+[2019.05.16-05.51.31:954][ 92]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.51.31:956][ 92]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.51.31
+[2019.05.16-05.51.31:957][ 92]LogWorld: Bringing up level for play took: 0.001874
+[2019.05.16-05.51.31:971][ 92]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 -0.118
+[2019.05.16-05.51.31:971][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.51.38:598][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.51.38:598][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.51.38:630][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.51.38:631][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.51.38:672][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.51.38:676][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.16-05.51.38:711][486]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.16-05.51.44:720][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.52.23:373][136]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.52.23:394][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.23:394][136]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.16-05.52.23:395][136]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.05.16-05.52.23:586][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.05.16-05.52.23:586][136]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2019.05.16-05.52.23:586][136]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:52:23 PM)
+[2019.05.16-05.52.23:586][136]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.52.23:601][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014902s)
+[2019.05.16-05.52.23:602][136]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.52.23:602][136]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2019.05.16-05.52.23:603][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.016205s)
+[2019.05.16-05.52.23:641][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.05.16-05.52.23:647][136]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.52.23:663][136]LogInit: FAudioDevice initialized.
+[2019.05.16-05.52.23:699][136]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.52.23:700][136]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.52.23
+[2019.05.16-05.52.23:700][136]LogWorld: Bringing up level for play took: 0.001661
+[2019.05.16-05.52.23:714][136]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 -0.375
+[2019.05.16-05.52.23:714][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.35:050][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.35:051][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.52.35:083][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.52.35:083][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.35:126][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.52.35:130][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.05.16-05.52.35:151][811]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.16-05.52.36:551][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.52.41:076][158]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.16-05.52.41:096][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.41:097][158]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.16-05.52.41:098][158]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.05.16-05.52.41:296][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.05.16-05.52.41:296][158]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2019.05.16-05.52.41:296][158]PIE: New page: PIE session: Stage01 (May 16, 2019, 7:52:41 PM)
+[2019.05.16-05.52.41:296][158]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.05.16-05.52.41:309][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013340s)
+[2019.05.16-05.52.41:310][158]LogAIModule: Creating AISystem for world Stage01
+[2019.05.16-05.52.41:310][158]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2019.05.16-05.52.41:311][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.014543s)
+[2019.05.16-05.52.41:350][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.16-05.52.41:357][158]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.52.41:374][158]LogInit: FAudioDevice initialized.
+[2019.05.16-05.52.41:408][158]LogLoad: Game class is 'BallGameMode_C'
+[2019.05.16-05.52.41:410][158]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.05.16-12.52.41
+[2019.05.16-05.52.41:411][158]LogWorld: Bringing up level for play took: 0.001920
+[2019.05.16-05.52.41:425][158]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 -0.664
+[2019.05.16-05.52.41:425][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.51:314][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.51:315][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.52.51:348][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.52.51:348][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.05.16-05.52.51:396][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.52.51:401][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.05.16-05.52.51:424][746]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.16-05.52.52:534][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.53.23:693][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.05.16-05.53.23:694][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Stage01' took 0.039
+[2019.05.16-05.53.23:696][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.05.16-05.53.23:750][239]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.05.16-05.53.23:750][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/ThirdPersonCharacter]
+[2019.05.16-05.53.23:833][239]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/ThirdPersonCharacter_Auto1FD99927048A7F21A3CCCDE95C65F53A6.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Autosaves/Game/Blueprints/Character/ThirdPersonCharacter_Auto1.uasset'
+[2019.05.16-05.53.23:835][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/3_10_Decisive_Battle_II] ([1] browsable assets)...
+[2019.05.16-05.53.23:835][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/3_10_Decisive_Battle_II]
+[2019.05.16-05.53.23:842][239]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/3_10_Decisive_Battle_II_Auto1B318B98D4358FD2AA1B1499288F091D5.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Autosaves/Game/Sounds/3_10_Decisive_Battle_II_Auto1.uasset'
+[2019.05.16-05.53.23:843][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Jump_Cue] ([1] browsable assets)...
+[2019.05.16-05.53.23:843][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Jump_Cue]
+[2019.05.16-05.53.23:843][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Jump_Cue" FILE="../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Autosaves/Game/Sounds/Jump_Cue_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.16-05.53.23:852][239]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Jump_Cue_Auto11F04E0794A7FFB6109B382B703EEA7E4.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Autosaves/Game/Sounds/Jump_Cue_Auto1.uasset'
+[2019.05.16-05.53.23:853][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Rolling] ([1] browsable assets)...
+[2019.05.16-05.53.23:853][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Rolling]
+[2019.05.16-05.53.23:853][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Rolling" FILE="../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Autosaves/Game/Sounds/Rolling_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.16-05.53.23:862][239]LogSavePackage: Moving '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Rolling_Auto1A1BAEF6440CE704F4E663EBB93F1CEE7.tmp' to '../../../../../../Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Saved/Autosaves/Game/Sounds/Rolling_Auto1.uasset'
+[2019.05.16-05.53.23:863][239]LogFileHelpers: Auto-saving content packages took 0.170
+[2019.05.16-05.57.28:800][591]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.05.16-05.57.28:809][591]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.05.16-05.57.35:203][957]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/BallGameMode.BallGameMode
+[2019.05.16-05.57.37:936][ 96]LogSlate: Window 'BallGameMode' being destroyed
+[2019.05.16-05.57.38:034][ 96]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/BallGameMode.BallGameMode
+[2019.05.16-05.58.12:149][425]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:\Downloads\Marble Blast Ultra Soundtrack.mp3)
+[2019.05.16-06.01.11:945][ 33]AssetReimport: New page: Outstanding source content changes 8:01:11 PM
+[2019.05.16-06.01.12:106][ 33]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Mr. Tech_G/Desktop/TihearMarbleV2 4.22/Content/Sounds/Marble Blast Ultra Soundtrack.wav)
+[2019.05.16-06.01.12:146][ 33]LogWindows: Windows GetLastError: The operation completed successfully. (0)

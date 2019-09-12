@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 09/11/19 12:38:21
+=======
+﻿Log file open, 09/11/19 19:30:26
+>>>>>>> 783590ff616c6f498ea5b6281767d079fc98c326
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +13,13 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: TihearMarbleV2
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.288441
+=======
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.412348
+>>>>>>> 783590ff616c6f498ea5b6281767d079fc98c326
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -156,6 +165,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.09.11-05.38.21:817][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.09.11-05.38.21:817][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.09.11-05.38.21:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/twott/Desktop/Crazy-Wizard/Saved/Config/Windows/Engine.ini]
@@ -1038,3 +1048,966 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.11-07.30.54:717][655]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2019.09.11-07.30.54:729][655]LogExit: Exiting.
 [2019.09.11-07.30.54:753][655]Log file closed, 09/11/19 14:30:54
+=======
+[2019.09.11-12.30.28:216][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.11-12.30.28:216][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.11-12.30.28:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:216][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.11-12.30.28:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.11-12.30.28:218][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.11-12.30.28:219][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.11-12.30.28:219][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.11-12.30.28:219][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.11-12.30.28:219][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.11-12.30.28:219][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.11-12.30.28:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:219][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:236][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:236][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.11-12.30.28:236][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.11-12.30.28:236][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:236][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.11-12.30.28:236][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.11-12.30.28:237][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.11-12.30.28:238][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.11-12.30.28:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.11-12.30.28:240][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.11-12.30.28:241][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.11-12.30.28:242][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.11-12.30.28:243][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.11-12.30.28:243][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.11-12.30.28:336][  0]LogHAL: Display: Platform has ~ 8 GB [8466190336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.11-12.30.28:339][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.11-12.30.28:339][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.11-12.30.28:339][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.11-12.30.28:340][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.11-12.30.28:341][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Scalability.ini]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.11-12.30.28:342][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.11-12.30.28:353][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.11-12.30.28:353][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.11-12.30.28:353][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Config/Windows/Engine.ini]
+[2019.09.11-12.30.28:354][  0]LogInit: Computer: GAMYUI
+[2019.09.11-12.30.28:354][  0]LogInit: User: Kunnatee
+[2019.09.11-12.30.28:354][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.09.11-12.30.28:354][  0]LogInit: High frequency timer resolution =1.851262 MHz
+[2019.09.11-12.30.28:355][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.09.11-12.30.28:355][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.11-12.30.28:355][  0]LogMemory: Process Physical Memory: 100.29 MB used, 100.29 MB peak
+[2019.09.11-12.30.28:355][  0]LogMemory: Process Virtual Memory: 94.45 MB used, 94.45 MB peak
+[2019.09.11-12.30.28:355][  0]LogMemory: Physical Memory: 4150.46 MB used,  3923.53 MB free, 8073.99 MB total
+[2019.09.11-12.30.28:355][  0]LogMemory: Virtual Memory: 4661.31 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.09.11-12.30.29:168][  0]LogInit: Using OS detected language (en-US).
+[2019.09.11-12.30.29:169][  0]LogInit: Using OS detected locale (en-GB).
+[2019.09.11-12.30.29:177][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.11-12.30.29:920][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.11-12.30.30:286][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.11-12.30.30:286][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.11-12.30.35:116][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.11-12.30.35:116][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.11-12.30.35:141][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2019.09.11-12.30.35:142][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.09.11-12.30.35:176][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.11-12.30.35:176][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.11-12.30.35:176][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.11-12.30.35:197][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.11-12.30.35:197][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.11-12.30.35:198][  0]LogWindows: EnumDisplayDevices:
+[2019.09.11-12.30.35:198][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2019.09.11-12.30.35:199][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2019.09.11-12.30.35:200][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2019.09.11-12.30.35:202][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.09.11-12.30.35:202][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2019.09.11-12.30.35:202][  0]LogD3D11RHI:   Driver Version: 10.18.10.4276 (internal:10.18.10.4276, unified:10.18.10.4276)
+[2019.09.11-12.30.35:202][  0]LogD3D11RHI:      Driver Date: 8-17-2015
+[2019.09.11-12.30.35:202][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2019.09.11-12.30.35:214][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.11-12.30.35:228][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.11-12.30.35:231][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.11-12.30.35:231][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.11-12.30.35:239][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.09.11-12.30.38:028][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.11-12.30.38:076][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.11-12.30.38:134][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.11-12.30.38:181][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.11-12.30.38:470][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.11-12.30.38:555][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.11-12.30.38:620][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.11-12.30.38:661][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.11-12.30.38:699][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.11-12.30.38:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.11-12.30.38:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.11-12.30.38:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.11-12.30.38:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.11-12.30.38:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.11-12.30.38:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.11-12.30.38:961][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.11-12.30.39:030][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.11-12.30.39:205][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.11-12.30.39:205][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.11-12.30.39:277][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.11-12.30.39:277][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.11-12.30.39:326][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.11-12.30.39:622][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.11-12.30.39:658][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.11-12.30.39:698][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.11-12.30.39:821][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.11-12.30.39:822][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.11-12.30.39:822][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.11-12.30.39:885][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.11-12.30.41:237][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Intermediate/Shaders/WorkingDirectory/5752/).
+[2019.09.11-12.30.41:238][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kunnatee/AppData/Local/Temp/UnrealShaderWorkingDir/0779B47845CA70166E6659818E06AF2B/'.
+[2019.09.11-12.30.41:260][  0]LogXGEController: Cleaning working directory: C:/Users/Kunnatee/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.11-12.30.41:261][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.11-12.30.41:262][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.11-12.30.41:262][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.11-12.30.48:029][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.11-12.30.49:153][  0]LogDerivedDataCache: Loaded boot cache 1.12s 71MB C:/Users/Kunnatee/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.11-12.30.49:153][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kunnatee/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.11-12.30.49:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.11-12.30.49:153][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.11-12.30.49:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.11-12.30.49:153][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.11-12.30.49:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.11-12.30.49:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.11-12.30.49:286][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.11-12.30.49:305][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kunnatee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.11-12.30.49:305][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.11-12.30.49:305][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.11-12.30.49:385][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.11-12.30.49:391][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.11-12.30.49:718][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.11-12.30.51:019][  0]LogAssetRegistry: FAssetRegistry took 0.1309 seconds to start up
+[2019.09.11-12.30.52:313][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.11-12.30.53:688][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.11-12.30.53:688][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.11-12.30.53:688][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.11-12.30.53:688][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.11-12.30.53:689][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.11-12.30.53:755][  0]LogNetVersion: TihearMarbleV2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1881101847)
+[2019.09.11-12.30.57:551][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.188105 seconds
+[2019.09.11-12.30.57:570][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.11-12.30.57:570][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.11-12.30.57:570][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.11-12.31.11:487][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.11-12.31.11:510][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.11-12.31.12:079][  0]SourceControl: Source control is disabled
+[2019.09.11-12.31.12:079][  0]SourceControl: Source control is disabled
+[2019.09.11-12.31.12:128][  0]SourceControl: Source control is disabled
+[2019.09.11-12.31.12:145][  0]SourceControl: Source control is disabled
+[2019.09.11-12.31.13:392][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.11-12.31.13:923][  0]LogOcInput: OculusInput pre-init called
+[2019.09.11-12.31.17:205][  0]LogEngine: Initializing Engine...
+[2019.09.11-12.31.17:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.11-12.31.17:213][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.09.11-12.31.18:013][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.11-12.31.18:112][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.11-12.31.18:138][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-12.31.18:805][  0]LogInit: FAudioDevice initialized.
+[2019.09.11-12.31.18:805][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.11-12.31.19:124][  0]LogDerivedDataCache: Saved boot cache 0.32s 71MB C:/Users/Kunnatee/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.11-12.31.19:125][  0]LogInit: Texture streaming: Enabled
+[2019.09.11-12.31.19:195][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.11-12.31.19:273][  0]LogInit: Transaction tracking system initialized
+[2019.09.11-12.31.19:396][  0]BlueprintLog: New page: Editor Load
+[2019.09.11-12.31.20:593][  0]LocalizationService: Localization service is disabled
+[2019.09.11-12.31.21:242][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.09.11-12.31.21:243][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.09.11-12.31.21:243][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.09.11-12.31.22:824][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/' took 0.05s
+[2019.09.11-12.31.22:824][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.11-12.31.22:824][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.11-12.31.25:349][  0]SourceControl: Source control is disabled
+[2019.09.11-12.31.25:350][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/Blueprints/Maps/Stage01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.11-12.31.25:355][  0]LightingResults: New page: Lighting Build
+[2019.09.11-12.31.25:385][  0]MapCheck: New page: Map Check
+[2019.09.11-12.31.25:385][  0]LightingResults: New page: Lighting Build
+[2019.09.11-12.31.25:434][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.09.11-12.31.28:995][  0]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-12.31.29:103][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.11-12.31.29:209][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2019.09.11-12.31.29:210][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.11-12.31.29:211][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.292ms to complete.
+[2019.09.11-12.31.29:211][  0]LogFileHelpers: Loading map 'Stage01' took 3.861
+[2019.09.11-12.31.29:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.31.29:732][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.31.29:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.31.29:781][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.31.29:854][  0]LogCollectionManager: Loaded 0 collections in 0.006295 seconds
+[2019.09.11-12.31.29:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Collections/' took 0.01s
+[2019.09.11-12.31.29:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/Developers/Kunnatee/Collections/' took 0.00s
+[2019.09.11-12.31.29:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/Collections/' took 0.01s
+[2019.09.11-12.31.29:923][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.11-12.31.29:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0216 seconds. Added 2732 classes and 659 folders.
+[2019.09.11-12.31.29:979][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.11-12.31.30:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.30:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.11-12.31.31:020][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.09.11-12.31.31:153][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.09.11-12.31.31:446][  0]LogSlate: Took 0.044240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.11-12.31.31:471][  0]LogSlate: Took 0.021314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.11-12.31.31:492][  0]LogSlate: Took 0.008812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.11-12.31.31:797][  0]LogRenderer: Reallocating scene render targets to support 808x432 Format 10 NumSamples 1 (Frame:1).
+[2019.09.11-12.31.33:155][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.11-12.31.33:155][  0]LogLoad: (Engine Initialization) Total time: 87.72 seconds
+[2019.09.11-12.31.33:155][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.11-12.31.33:253][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.11-12.31.33:474][  0]LogSlate: Took 0.131689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.11-12.31.33:946][  1]LogAssetRegistry: Asset discovery search completed in 42.9504 seconds
+[2019.09.11-12.31.33:955][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.11-12.31.33:955][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000130 seconds (updated 0 objects)
+[2019.09.11-12.31.35:031][  4]LogSlate: Took 0.001141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.11-12.31.38:607][120]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/' took 5.42s
+[2019.09.11-12.32.25:742][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-12.32.25:915][401]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-12.32.25:969][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.32.25:969][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-12.32.26:021][401]PIE: New page: PIE session: Stage01 (12 Sep 2019 02:32:25)
+[2019.09.11-12.32.26:035][401]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-12.32.26:095][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058907s)
+[2019.09.11-12.32.26:097][401]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-12.32.26:097][401]LogPlayLevel: PIE: World Init took: (0.002310s)
+[2019.09.11-12.32.26:097][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.061969s)
+[2019.09.11-12.32.26:144][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.09.11-12.32.26:155][401]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-12.32.26:197][401]LogInit: FAudioDevice initialized.
+[2019.09.11-12.32.26:247][401]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-12.32.26:254][401]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-19.32.26
+[2019.09.11-12.32.26:256][401]LogWorld: Bringing up level for play took: 0.006015
+[2019.09.11-12.32.26:439][401]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.09.11-12.32.26:448][401]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.987
+[2019.09.11-12.32.26:449][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.32.30:664][516]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-12.32.33:665][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-12.32.41:241][832]Cmd: RestartLevel
+[2019.09.11-12.32.41:243][832]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-12.32.41:274][832]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-12.32.41:324][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.09.11-12.32.41:325][832]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-12.32.41:369][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044243s)
+[2019.09.11-12.32.41:370][832]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-12.32.41:371][832]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2019.09.11-12.32.41:371][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.046076s)
+[2019.09.11-12.32.41:371][832]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-12.32.41:390][832]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-19.32.41
+[2019.09.11-12.32.41:391][832]LogWorld: Bringing up level for play took: 0.019070
+[2019.09.11-12.32.41:796][832]LogLoad: Took 0.521926 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-12.32.44:107][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.32.44:108][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.32.44:181][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-12.32.44:182][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.32.44:229][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.32.44:237][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.09.11-12.32.44:274][898]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.11-12.32.46:177][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-12.33.02:086][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-12.33.02:273][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-12.33.02:322][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.33.02:322][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-12.33.02:322][374]PIE: New page: PIE session: Stage01 (12 Sep 2019 02:33:02)
+[2019.09.11-12.33.02:323][374]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-12.33.02:375][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051951s)
+[2019.09.11-12.33.02:377][374]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-12.33.02:377][374]LogPlayLevel: PIE: World Init took: (0.002451s)
+[2019.09.11-12.33.02:377][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.054737s)
+[2019.09.11-12.33.02:425][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.09.11-12.33.02:433][374]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-12.33.02:469][374]LogInit: FAudioDevice initialized.
+[2019.09.11-12.33.02:504][374]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-12.33.02:510][374]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-19.33.02
+[2019.09.11-12.33.02:511][374]LogWorld: Bringing up level for play took: 0.006511
+[2019.09.11-12.33.02:529][374]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 1.067
+[2019.09.11-12.33.02:530][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.38.58:767][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.38.58:768][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.38.58:844][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-12.38.58:844][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.38.58:889][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.38.58:896][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.09.11-12.38.58:931][290]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.09.11-12.39.01:798][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-12.39.02:022][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-12.39.02:074][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.39.02:074][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-12.39.02:075][375]PIE: New page: PIE session: Stage01 (12 Sep 2019 02:39:02)
+[2019.09.11-12.39.02:075][375]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-12.39.02:124][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049209s)
+[2019.09.11-12.39.02:126][375]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-12.39.02:126][375]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2019.09.11-12.39.02:126][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.051331s)
+[2019.09.11-12.39.02:173][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.11-12.39.02:182][375]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-12.39.02:224][375]LogInit: FAudioDevice initialized.
+[2019.09.11-12.39.02:254][375]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-12.39.02:259][375]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-19.39.02
+[2019.09.11-12.39.02:260][375]LogWorld: Bringing up level for play took: 0.005044
+[2019.09.11-12.39.02:280][375]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.818
+[2019.09.11-12.39.02:280][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.39.03:555][409]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.39.03:556][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.39.03:636][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-12.39.03:637][409]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-12.39.03:687][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-12.39.03:695][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.09.11-12.39.03:729][410]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.11-12.48.50:850][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-12.48.51:125][365]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/SaveHighscore_BP.SaveHighscore_BP
+[2019.09.11-12.48.52:895][365]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 121 classes and 0 folders.
+[2019.09.11-12.48.56:983][365]LogSlate: Took 0.019412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.11-12.49.16:159][808]BlueprintLog: New page: Compile SaveHighscore_BP
+[2019.09.11-12.49.16:249][808]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2019.09.11-12.49.30:511][983]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP
+[2019.09.11-12.49.32:067][984]LogSlate: Took 0.022204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.11-12.49.39:220][157]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/SaveHighscore_BP22394CAD48CC5043D4843785883F030A.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/SaveHighscore_BP.uasset'
+[2019.09.11-12.50.43:837][738]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.09.11-12.50.44:617][738]LogUObjectHash: Compacting FUObjectHashTables data took  11.20ms
+[2019.09.11-12.50.44:663][738]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.09.11-12.50.45:418][738]LogUObjectHash: Compacting FUObjectHashTables data took  11.08ms
+[2019.09.11-12.58.34:897][435]LogUObjectHash: Compacting FUObjectHashTables data took  14.25ms
+[2019.09.11-12.58.34:897][435]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Stage01' took 0.147
+[2019.09.11-12.58.34:902][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/Blueprints/PhysicsBallBP] ([1] browsable assets)...
+[2019.09.11-12.58.35:010][435]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP]
+[2019.09.11-12.58.35:010][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/PhysicsBallBP]
+[2019.09.11-12.58.35:247][435]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/PhysicsBallBP_Auto1C994C9EE4B25630845B68FB953140019.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto1.uasset'
+[2019.09.11-12.58.35:270][435]LogFileHelpers: Auto-saving content packages took 0.371
+[2019.09.11-12.59.38:905][295]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2019.09.11-12.59.39:668][295]LogUObjectHash: Compacting FUObjectHashTables data took  10.22ms
+[2019.09.11-12.59.39:698][295]LogMetaData: Removing '/Game/RollingBP/Blueprints/SaveGame_BP.SaveGame_BP_C' ref from Metadata '/Game/RollingBP/Blueprints/SaveHighscore_BP.PackageMetaData'
+[2019.09.11-12.59.39:698][295]LogMetaData: Removing '/Game/RollingBP/Blueprints/SaveGame_BP.SKEL_SaveGame_BP_C' ref from Metadata '/Game/RollingBP/Blueprints/SaveHighscore_BP.PackageMetaData'
+[2019.09.11-12.59.39:788][295]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/SaveGame_BPDA7B46E140D7A96384DA12AA6E7401B6.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/SaveGame_BP.uasset'
+[2019.09.11-12.59.40:602][295]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2019.09.11-12.59.40:703][295]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.09.11-12.59.40:810][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.09.11-13.08.35:860][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2019.09.11-13.08.35:860][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Stage01' took 0.087
+[2019.09.11-13.08.35:863][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/Blueprints/PhysicsBallBP] ([1] browsable assets)...
+[2019.09.11-13.08.35:973][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP]
+[2019.09.11-13.08.35:973][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/PhysicsBallBP]
+[2019.09.11-13.08.36:170][ 72]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/PhysicsBallBP_Auto2108E3EAB4D4D0BF8B26EF091BF84ED67.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto2.uasset'
+[2019.09.11-13.08.36:220][ 72]LogFileHelpers: Auto-saving content packages took 0.359
+[2019.09.11-13.18.39:530][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.09.11-13.18.39:530][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Stage01' took 0.084
+[2019.09.11-13.18.39:532][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollingBP/Blueprints/PhysicsBallBP] ([1] browsable assets)...
+[2019.09.11-13.18.39:599][357]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP]
+[2019.09.11-13.18.39:599][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/PhysicsBallBP]
+[2019.09.11-13.18.39:793][357]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/PhysicsBallBP_Auto3481CEBD346F7A81D82C29DB84722D003.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto3.uasset'
+[2019.09.11-13.18.39:797][357]LogFileHelpers: Auto-saving content packages took 0.265
+[2019.09.11-13.19.03:084][909]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.09.11-13.19.03:584][909]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.09.11-13.20.38:747][ 83]LogEditorTransaction: Undo Move Node
+[2019.09.11-13.24.55:762][246]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.09.11-13.24.56:265][246]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2019.09.11-13.27.14:865][844]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/PhysicsBallBP560FCEB6436D9920CF5861BBCDFF4DE4.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.09.11-13.27.24:803][ 79]LogSlate: Window 'PhysicsBallBP' being destroyed
+[2019.09.11-13.27.28:727][136]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/RollingBP/Blueprints/EndGamePopUp_BP.EndGamePopUp_BP
+[2019.09.11-13.27.29:945][136]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.09.11-13.28.55:466][125]LogSlate: Window 'Details' being destroyed
+[2019.09.11-13.29.58:323][540]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.09.11-13.29.58:378][540]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.09.11-13.30.36:911][964]LogUObjectHash: Compacting FUObjectHashTables data took  22.43ms
+[2019.09.11-13.30.36:912][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Stage01' took 0.304
+[2019.09.11-13.30.36:916][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RollingBP/Blueprints/EndGamePopUp_BP] ([1] browsable assets)...
+[2019.09.11-13.30.36:916][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/EndGamePopUp_BP]
+[2019.09.11-13.30.37:151][964]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/EndGamePopUp_BP_Auto460A011714DBD13B58C99F193E54D429B.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Autosaves/Game/RollingBP/Blueprints/EndGamePopUp_BP_Auto4.uasset'
+[2019.09.11-13.30.37:176][964]LogFileHelpers: Auto-saving content packages took 0.262
+[2019.09.11-13.34.48:820][ 64]BlueprintLog: New page: Compile EndGamePopUp_BP
+[2019.09.11-13.34.48:873][ 64]LogBlueprint: Error: [Compiler EndGamePopUp_BP] The type of  Object  is undetermined.  Connect something to  Cast To SaveGame_BP  to imply a specific type.
+[2019.09.11-13.34.48:878][ 64]LogBlueprint: Error: [Compiler EndGamePopUp_BP] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.09.11-13.34.49:051][ 64]LogUObjectHash: Compacting FUObjectHashTables data took  15.43ms
+[2019.09.11-13.34.49:077][ 64]LogBlueprint: Warning: [Compiler EndGamePopUp_BP] [3883.64] Compile of EndGamePopUp_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 256 ms] (/Game/RollingBP/Blueprints/EndGamePopUp_BP.EndGamePopUp_BP)
+[2019.09.11-13.34.56:797][249]BlueprintLog: New page: Compile EndGamePopUp_BP
+[2019.09.11-13.34.56:988][249]LogUObjectHash: Compacting FUObjectHashTables data took  13.40ms
+[2019.09.11-13.34.58:496][279]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/EndGamePopUp_BPFC07F350404525D564435194883DC36D.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/EndGamePopUp_BP.uasset'
+[2019.09.11-13.35.43:054][983]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP
+[2019.09.11-13.36.55:062][524]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.09.11-13.36.55:566][524]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2019.09.11-13.38.52:515][786]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/PhysicsBallBP4EF338344DBBA1446587F5ABB625469C.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/PhysicsBallBP.uasset'
+[2019.09.11-13.38.57:518][901]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-13.38.57:615][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.38.57:616][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-13.38.57:616][901]PIE: New page: PIE session: Stage01 (12 Sep 2019 03:38:57)
+[2019.09.11-13.38.57:617][901]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.38.57:732][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114706s)
+[2019.09.11-13.38.57:735][901]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.38.57:736][901]LogPlayLevel: PIE: World Init took: (0.003788s)
+[2019.09.11-13.38.57:736][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.119038s)
+[2019.09.11-13.38.57:901][901]LogUObjectHash: Compacting FUObjectHashTables data took  18.24ms
+[2019.09.11-13.38.57:921][901]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-13.38.57:970][901]LogInit: FAudioDevice initialized.
+[2019.09.11-13.38.58:022][901]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.38.58:031][901]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.38.58
+[2019.09.11-13.38.58:032][901]LogWorld: Bringing up level for play took: 0.008970
+[2019.09.11-13.38.58:053][901]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.59
+[2019.09.11-13.38.58:053][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.39.17:544][421]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.39.41:077][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.39.41:286][ 25]Cmd: RestartLevel
+[2019.09.11-13.39.41:289][ 25]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.39.41:320][ 25]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.39.41:457][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2019.09.11-13.39.41:457][ 25]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.39.41:514][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056559s)
+[2019.09.11-13.39.41:517][ 25]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.39.41:517][ 25]LogPlayLevel: PIE: World Init took: (0.003127s)
+[2019.09.11-13.39.41:518][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.060238s)
+[2019.09.11-13.39.41:518][ 25]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.39.41:538][ 25]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.39.41
+[2019.09.11-13.39.41:539][ 25]LogWorld: Bringing up level for play took: 0.019264
+[2019.09.11-13.39.41:547][ 25]LogLoad: Took 0.228593 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.39.47:181][171]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.39.58:502][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.39.58:699][471]Cmd: RestartLevel
+[2019.09.11-13.39.58:701][471]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.39.58:732][471]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.39.58:907][471]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2019.09.11-13.39.58:907][471]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.39.58:976][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068703s)
+[2019.09.11-13.39.58:977][471]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.39.58:978][471]LogPlayLevel: PIE: World Init took: (0.001948s)
+[2019.09.11-13.39.58:978][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.071114s)
+[2019.09.11-13.39.58:978][471]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.39.59:003][471]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.39.59
+[2019.09.11-13.39.59:004][471]LogWorld: Bringing up level for play took: 0.024144
+[2019.09.11-13.39.59:012][471]LogLoad: Took 0.280437 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.40.01:079][526]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.40.03:198][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.40.03:407][592]Cmd: RestartLevel
+[2019.09.11-13.40.03:409][592]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.40.03:442][592]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.40.03:590][592]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2019.09.11-13.40.03:590][592]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.40.03:647][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057004s)
+[2019.09.11-13.40.03:649][592]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.40.03:649][592]LogPlayLevel: PIE: World Init took: (0.001975s)
+[2019.09.11-13.40.03:650][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.059471s)
+[2019.09.11-13.40.03:650][592]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.40.03:677][592]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.40.03
+[2019.09.11-13.40.03:678][592]LogWorld: Bringing up level for play took: 0.025488
+[2019.09.11-13.40.03:685][592]LogLoad: Took 0.243056 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.40.04:645][616]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.40.06:254][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.40.06:437][665]Cmd: RestartLevel
+[2019.09.11-13.40.06:440][665]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.40.06:459][665]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.40.06:597][665]LogUObjectHash: Compacting FUObjectHashTables data took  11.23ms
+[2019.09.11-13.40.06:599][665]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.40.06:653][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054561s)
+[2019.09.11-13.40.06:656][665]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.40.06:657][665]LogPlayLevel: PIE: World Init took: (0.003177s)
+[2019.09.11-13.40.06:657][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.058401s)
+[2019.09.11-13.40.06:657][665]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.40.06:680][665]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.40.06
+[2019.09.11-13.40.06:681][665]LogWorld: Bringing up level for play took: 0.021622
+[2019.09.11-13.40.06:689][665]LogLoad: Took 0.230378 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.40.06:972][669]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.40.09:591][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.40.09:814][751]Cmd: RestartLevel
+[2019.09.11-13.40.09:817][751]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.40.09:839][751]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.40.09:987][751]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2019.09.11-13.40.09:988][751]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.40.10:035][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046694s)
+[2019.09.11-13.40.10:037][751]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.40.10:037][751]LogPlayLevel: PIE: World Init took: (0.002000s)
+[2019.09.11-13.40.10:037][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.049166s)
+[2019.09.11-13.40.10:037][751]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.40.10:053][751]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.40.10
+[2019.09.11-13.40.10:054][751]LogWorld: Bringing up level for play took: 0.014232
+[2019.09.11-13.40.10:062][751]LogLoad: Took 0.222546 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.40.17:834][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.40.17:834][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-13.40.17:915][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-13.40.17:915][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.40.18:052][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-13.40.18:067][963]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2019.09.11-13.40.18:119][964]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.11-13.40.19:636][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.40.19:849][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-13.40.19:935][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.40.19:936][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-13.40.19:936][  6]PIE: New page: PIE session: Stage01 (12 Sep 2019 03:40:19)
+[2019.09.11-13.40.19:936][  6]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.40.19:980][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043822s)
+[2019.09.11-13.40.19:981][  6]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.40.19:982][  6]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2019.09.11-13.40.19:982][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.045844s)
+[2019.09.11-13.40.20:092][  6]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2019.09.11-13.40.20:105][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-13.40.20:147][  6]LogInit: FAudioDevice initialized.
+[2019.09.11-13.40.20:181][  6]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.40.20:186][  6]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.40.20
+[2019.09.11-13.40.20:187][  6]LogWorld: Bringing up level for play took: 0.004918
+[2019.09.11-13.40.20:206][  6]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.745
+[2019.09.11-13.40.20:206][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.40.28:264][215]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.40.30:596][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.40.30:597][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-13.40.30:675][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-13.40.30:675][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.40.30:823][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-13.40.30:844][274]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2019.09.11-13.40.30:885][275]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.09.11-13.40.34:927][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.57.04:089][421]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-13.57.04:161][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.57.04:161][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-13.57.04:161][421]PIE: New page: PIE session: Stage01 (12 Sep 2019 03:57:04)
+[2019.09.11-13.57.04:162][421]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.57.04:204][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041987s)
+[2019.09.11-13.57.04:205][421]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.57.04:205][421]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2019.09.11-13.57.04:205][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.043495s)
+[2019.09.11-13.57.04:286][421]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.09.11-13.57.04:296][421]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-13.57.04:333][421]LogInit: FAudioDevice initialized.
+[2019.09.11-13.57.04:367][421]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.57.04:372][421]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.57.04
+[2019.09.11-13.57.04:373][421]LogWorld: Bringing up level for play took: 0.005077
+[2019.09.11-13.57.04:392][421]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.93
+[2019.09.11-13.57.04:393][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.57.15:841][762]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.57.27:459][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.57.27:685][130]Cmd: RestartLevel
+[2019.09.11-13.57.27:686][130]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.57.27:716][130]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.57.27:802][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2019.09.11-13.57.27:802][130]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.57.27:836][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033759s)
+[2019.09.11-13.57.27:838][130]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.57.27:838][130]LogPlayLevel: PIE: World Init took: (0.001861s)
+[2019.09.11-13.57.27:838][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.035968s)
+[2019.09.11-13.57.27:838][130]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.57.27:853][130]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.57.27
+[2019.09.11-13.57.27:854][130]LogWorld: Bringing up level for play took: 0.015008
+[2019.09.11-13.57.27:860][130]LogLoad: Took 0.143598 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.57.30:415][204]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.57.33:374][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-13.57.38:061][440]Cmd: RestartLevel
+[2019.09.11-13.57.38:063][440]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-13.57.38:093][440]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-13.57.38:183][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.09.11-13.57.38:183][440]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-13.57.38:219][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035481s)
+[2019.09.11-13.57.38:221][440]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-13.57.38:221][440]LogPlayLevel: PIE: World Init took: (0.002080s)
+[2019.09.11-13.57.38:221][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.037917s)
+[2019.09.11-13.57.38:221][440]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-13.57.38:234][440]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 0) at 2019.09.11-20.57.38
+[2019.09.11-13.57.38:234][440]LogWorld: Bringing up level for play took: 0.011998
+[2019.09.11-13.57.38:240][440]LogLoad: Took 0.147558 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-13.57.39:354][470]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-13.57.42:041][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.57.42:043][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-13.57.42:111][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-13.57.42:111][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-13.57.42:192][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-13.57.42:205][552]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.09.11-13.57.42:235][553]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.11-13.57.47:086][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.11-14.01.12:155][263]BlueprintLog: New page: Compile PhysicsBallBP
+[2019.09.11-14.01.12:938][263]LogUObjectHash: Compacting FUObjectHashTables data took   8.98ms
+[2019.09.11-14.05.51:050][669]BlueprintLog: New page: Compile EndGamePopUp_BP
+[2019.09.11-14.05.51:201][669]LogUObjectHash: Compacting FUObjectHashTables data took   9.93ms
+[2019.09.11-14.09.12:164][106]BlueprintLog: New page: Compile EndGamePopUp_BP
+[2019.09.11-14.09.12:256][106]LogBlueprint: Error: [Compiler EndGamePopUp_BP] The type of  Object  is undetermined.  Connect something to  Cast To UI_BP  to imply a specific type.
+[2019.09.11-14.09.12:263][106]LogBlueprint: Error: [Compiler EndGamePopUp_BP] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.09.11-14.09.12:490][106]LogUObjectHash: Compacting FUObjectHashTables data took  19.26ms
+[2019.09.11-14.09.12:572][106]LogBlueprint: Warning: [Compiler EndGamePopUp_BP] [5947.14] Compile of EndGamePopUp_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 406 ms] (/Game/RollingBP/Blueprints/EndGamePopUp_BP.EndGamePopUp_BP)
+[2019.09.11-14.09.13:458][112]LogUObjectHash: Compacting FUObjectHashTables data took  18.92ms
+[2019.09.11-14.09.13:458][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Stage01' took 0.140
+[2019.09.11-14.09.13:465][112]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RollingBP/Blueprints/EndGamePopUp_BP] ([1] browsable assets)...
+[2019.09.11-14.09.13:465][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollingBP/Blueprints/EndGamePopUp_BP]
+[2019.09.11-14.09.13:691][112]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/EndGamePopUp_BP_Auto533FD8A2E4CF068DF81FB8EB7FEFC435A.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/Autosaves/Game/RollingBP/Blueprints/EndGamePopUp_BP_Auto5.uasset'
+[2019.09.11-14.09.13:793][112]LogFileHelpers: Auto-saving content packages took 0.329
+[2019.09.11-14.09.58:872][978]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.11-14.11.56:478][245]LogSlate: Took 0.023396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.11-14.12.22:155][739]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2019.09.11-14.13.25:995][ 11]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/RollingBP/Blueprints/UI_BP.UI_BP
+[2019.09.11-14.14.43:732][665]BlueprintLog: New page: Compile EndGamePopUp_BP
+[2019.09.11-14.14.43:935][665]LogUObjectHash: Compacting FUObjectHashTables data took  15.59ms
+[2019.09.11-14.14.56:503][928]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/EndGamePopUp_BPA42E8F2E48AC2782B363EEBD3EEDABD7.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/EndGamePopUp_BP.uasset'
+[2019.09.11-14.15.00:024][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-14.15.00:144][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.15.00:144][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-14.15.00:144][ 14]PIE: New page: PIE session: Stage01 (12 Sep 2019 04:15:00)
+[2019.09.11-14.15.00:145][ 14]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.15.00:222][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076673s)
+[2019.09.11-14.15.00:224][ 14]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.15.00:225][ 14]LogPlayLevel: PIE: World Init took: (0.003295s)
+[2019.09.11-14.15.00:225][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.080545s)
+[2019.09.11-14.15.00:349][ 14]LogUObjectHash: Compacting FUObjectHashTables data took  12.58ms
+[2019.09.11-14.15.00:362][ 14]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-14.15.00:410][ 14]LogInit: FAudioDevice initialized.
+[2019.09.11-14.15.00:445][ 14]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.15.00:453][ 14]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.15.00
+[2019.09.11-14.15.00:454][ 14]LogWorld: Bringing up level for play took: 0.007567
+[2019.09.11-14.15.00:475][ 14]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 1.013
+[2019.09.11-14.15.00:475][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.15.15:907][436]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-14.15.24:478][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-14.15.24:651][684]Cmd: RestartLevel
+[2019.09.11-14.15.24:654][684]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-14.15.24:687][684]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-14.15.24:873][684]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2019.09.11-14.15.24:874][684]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.15.24:948][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073214s)
+[2019.09.11-14.15.24:952][684]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.15.24:952][684]LogPlayLevel: PIE: World Init took: (0.004428s)
+[2019.09.11-14.15.24:952][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.078287s)
+[2019.09.11-14.15.24:952][684]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.15.24:979][684]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.15.24
+[2019.09.11-14.15.24:980][684]LogWorld: Bringing up level for play took: 0.026031
+[2019.09.11-14.15.24:988][684]LogLoad: Took 0.301846 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-14.15.31:536][863]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-14.15.35:081][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-14.15.35:278][975]Cmd: RestartLevel
+[2019.09.11-14.15.35:280][975]LogNet: Browse: /Game/Blueprints/Maps/Stage01?restart
+[2019.09.11-14.15.35:312][975]LogLoad: LoadMap: /Game/Blueprints/Maps/Stage01
+[2019.09.11-14.15.35:485][975]LogUObjectHash: Compacting FUObjectHashTables data took  12.01ms
+[2019.09.11-14.15.35:486][975]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.15.35:552][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065712s)
+[2019.09.11-14.15.35:554][975]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.15.35:554][975]LogPlayLevel: PIE: World Init took: (0.002379s)
+[2019.09.11-14.15.35:555][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.068870s)
+[2019.09.11-14.15.35:555][975]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.15.35:572][975]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.15.35
+[2019.09.11-14.15.35:573][975]LogWorld: Bringing up level for play took: 0.015386
+[2019.09.11-14.15.35:586][975]LogLoad: Took 0.274414 seconds to LoadMap(/Game/Blueprints/Maps/UEDPIE_0_Stage01)
+[2019.09.11-14.15.35:666][976]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-14.15.39:973][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-14.15.40:190][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.15.40:192][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.15.40:234][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-14.15.40:235][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.15.40:426][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.15.40:450][ 89]LogUObjectHash: Compacting FUObjectHashTables data took  12.77ms
+[2019.09.11-14.15.40:501][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.09.11-14.15.49:972][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.09.11-14.15.50:893][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.09.11-14.15.51:394][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.09.11-14.15.51:954][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.09.11-14.15.52:596][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.11-14.21.05:728][ 10]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/UI_BP55CCC33A4C56026088A94E874E8A196D.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/UI_BP.uasset'
+[2019.09.11-14.21.07:737][ 58]BlueprintLog: New page: Compile UI_BP
+[2019.09.11-14.21.07:911][ 58]LogUObjectHash: Compacting FUObjectHashTables data took  11.36ms
+[2019.09.11-14.21.09:302][ 81]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/UI_BPC243767B45A37404419F97B7D101F124.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/UI_BP.uasset'
+[2019.09.11-14.21.12:355][161]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-14.21.12:443][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.12:444][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-14.21.12:444][161]PIE: New page: PIE session: Stage01 (12 Sep 2019 04:21:12)
+[2019.09.11-14.21.12:444][161]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.21.12:502][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057593s)
+[2019.09.11-14.21.12:504][161]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.21.12:504][161]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2019.09.11-14.21.12:504][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.059893s)
+[2019.09.11-14.21.12:619][161]LogUObjectHash: Compacting FUObjectHashTables data took  17.51ms
+[2019.09.11-14.21.12:633][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-14.21.12:683][161]LogInit: FAudioDevice initialized.
+[2019.09.11-14.21.12:717][161]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.21.12:724][161]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.21.12
+[2019.09.11-14.21.12:725][161]LogWorld: Bringing up level for play took: 0.006788
+[2019.09.11-14.21.12:747][161]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 1.285
+[2019.09.11-14.21.12:747][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.16:761][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.16:762][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.21.16:836][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-14.21.16:837][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.16:944][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.21.16:958][271]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2019.09.11-14.21.17:004][272]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.11-14.21.19:942][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.11-14.21.44:604][738]BlueprintLog: New page: Compile UI_BP
+[2019.09.11-14.21.44:775][738]LogUObjectHash: Compacting FUObjectHashTables data took  11.39ms
+[2019.09.11-14.21.47:871][806]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-14.21.47:969][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.47:969][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-14.21.47:970][806]PIE: New page: PIE session: Stage01 (12 Sep 2019 04:21:47)
+[2019.09.11-14.21.47:970][806]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.21.48:030][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060117s)
+[2019.09.11-14.21.48:033][806]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.21.48:033][806]LogPlayLevel: PIE: World Init took: (0.002800s)
+[2019.09.11-14.21.48:033][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.063277s)
+[2019.09.11-14.21.48:140][806]LogUObjectHash: Compacting FUObjectHashTables data took  13.96ms
+[2019.09.11-14.21.48:154][806]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-14.21.48:242][806]LogInit: FAudioDevice initialized.
+[2019.09.11-14.21.48:281][806]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.21.48:287][806]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.21.48
+[2019.09.11-14.21.48:288][806]LogWorld: Bringing up level for play took: 0.006465
+[2019.09.11-14.21.48:309][806]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.847
+[2019.09.11-14.21.48:310][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.51:244][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.51:245][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.21.51:327][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-14.21.51:328][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.21.51:457][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.21.51:474][882]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2019.09.11-14.21.51:527][883]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.11-14.21.55:052][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.11-14.22.04:093][ 78]BlueprintLog: New page: Compile UI_BP
+[2019.09.11-14.22.04:286][ 78]LogUObjectHash: Compacting FUObjectHashTables data took  10.91ms
+[2019.09.11-14.22.11:763][169]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/UI_BPE10005D34D60AF084755F9BE8E0F0478.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/UI_BP.uasset'
+[2019.09.11-14.22.29:680][498]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-14.22.29:771][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.22.29:772][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-14.22.29:772][498]PIE: New page: PIE session: Stage01 (12 Sep 2019 04:22:29)
+[2019.09.11-14.22.29:772][498]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.22.29:831][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059231s)
+[2019.09.11-14.22.29:833][498]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.22.29:834][498]LogPlayLevel: PIE: World Init took: (0.002271s)
+[2019.09.11-14.22.29:834][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.061952s)
+[2019.09.11-14.22.29:952][498]LogUObjectHash: Compacting FUObjectHashTables data took  14.53ms
+[2019.09.11-14.22.29:963][498]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-14.22.30:030][498]LogInit: FAudioDevice initialized.
+[2019.09.11-14.22.30:068][498]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.22.30:075][498]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.22.30
+[2019.09.11-14.22.30:076][498]LogWorld: Bringing up level for play took: 0.006947
+[2019.09.11-14.22.30:097][498]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 0.635
+[2019.09.11-14.22.30:097][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.22.35:198][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.22.35:199][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.22.35:276][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-14.22.35:276][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.22.35:396][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.22.35:412][631]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2019.09.11-14.22.35:470][632]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.09.11-14.22.52:791][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-14.22.57:791][127]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetTextLibrary::Conv_IntToText' [Element not found.]
+[2019.09.11-14.24.39:641][489]BlueprintLog: New page: Compile UI_BP
+[2019.09.11-14.24.39:867][489]LogUObjectHash: Compacting FUObjectHashTables data took  15.80ms
+[2019.09.11-14.24.53:907][793]BlueprintLog: New page: Compile UI_BP
+[2019.09.11-14.24.54:102][793]LogUObjectHash: Compacting FUObjectHashTables data took  14.04ms
+[2019.09.11-14.24.54:919][807]BlueprintLog: New page: Compile UI_BP
+[2019.09.11-14.24.55:124][807]LogUObjectHash: Compacting FUObjectHashTables data took  19.75ms
+[2019.09.11-14.24.56:100][820]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/UI_BP0E19379A4CE743410F057CA44A0C40B2.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/UI_BP.uasset'
+[2019.09.11-14.25.23:361][379]LogSavePackage: Moving '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Saved/UI_BPA63E43F649C4FDABB976959C8B959AB5.tmp' to '../../../../../../Users/Kunnatee/Documents/Unreal Projects/CrazyWizardBySPT(SplatterKrean)/Content/RollingBP/Blueprints/UI_BP.uasset'
+[2019.09.11-14.25.34:791][603]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.11-14.25.34:900][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.25.34:900][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.11-14.25.34:900][603]PIE: New page: PIE session: Stage01 (12 Sep 2019 04:25:34)
+[2019.09.11-14.25.34:901][603]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Stage01
+[2019.09.11-14.25.34:965][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063565s)
+[2019.09.11-14.25.34:967][603]LogAIModule: Creating AISystem for world Stage01
+[2019.09.11-14.25.34:967][603]LogPlayLevel: PIE: World Init took: (0.002309s)
+[2019.09.11-14.25.34:967][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Stage01.Stage01 to /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 (0.066377s)
+[2019.09.11-14.25.35:126][603]LogUObjectHash: Compacting FUObjectHashTables data took  17.15ms
+[2019.09.11-14.25.35:140][603]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.11-14.25.35:210][603]LogInit: FAudioDevice initialized.
+[2019.09.11-14.25.35:247][603]LogLoad: Game class is 'BallGameMode_C'
+[2019.09.11-14.25.35:254][603]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Stage01.Stage01 up for play (max tick rate 60) at 2019.09.11-21.25.35
+[2019.09.11-14.25.35:256][603]LogWorld: Bringing up level for play took: 0.007162
+[2019.09.11-14.25.35:279][603]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Stage01 -0.183
+[2019.09.11-14.25.35:279][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.26.43:961][579]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.09.11-14.26.51:986][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.11-14.26.52:176][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.26.52:178][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.26.52:221][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.11-14.26.52:222][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01' with GeneratedClass '/Game/Blueprints/Maps/Stage01.Stage01_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Stage01.Stage01:PersistentLevel.Stage01'
+[2019.09.11-14.26.52:353][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.11-14.26.52:370][795]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2019.09.11-14.26.52:407][796]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.09.11-14.28.55:197][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+>>>>>>> 783590ff616c6f498ea5b6281767d079fc98c326

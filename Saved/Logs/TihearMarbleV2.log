@@ -3270,3 +3270,29 @@ Please update your composite fonts to use localized sub-font families: https://d
 [2019.11.05-15.24.52:993][869]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2019.11.05-15.24.53:493][869]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2019.11.05-15.24.53:994][869]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.11.05-15.24.54:520][869]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.05-15.24.54:522][869]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.05-15.24.54:524][869]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.05-15.24.54:530][869]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.05-15.24.54:530][869]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.05-15.24.54:531][869]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.05-15.24.54:532][869]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.05-15.24.54:543][869]LogExit: Exiting.
+[2019.11.05-15.24.54:571][869]Log file closed, 11/05/19 22:24:54

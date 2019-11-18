@@ -1,6 +1,74 @@
 {
 	"Contents": [
 		{
+			"File": "../../../Engine/Plugins/Marketplace/Substance/Substance.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 60,
+				"VersionName": "4.22.0.33",
+				"FriendlyName": "Substance in UE4",
+				"Description": "Adds support for Substance (sbsar) textures",
+				"Category": "Editor",
+				"CreatedBy": "Substance by Adobe",
+				"CreatedByURL": "https://www.substance3d.com/",
+				"DocsURL": "https://docs.substance3d.com/display/integrations/Unreal+Engine",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4",
+				"SupportURL": "",
+				"EngineVersion": "4.22.0",
+				"CanContainContent": false,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "SubstanceCore",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux",
+							"PS4",
+							"XboxOne"
+						]
+					},
+					{
+						"Name": "SubstanceEditor",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux"
+						]
+					},
+					{
+						"Name": "SubstanceSource",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux"
+						]
+					},
+					{
+						"Name": "SubstanceLiveLink",
+						"Type": "Editor",
+						"LoadingPhase": "PostDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32",
+							"Mac",
+							"Linux"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{
@@ -941,43 +1009,6 @@
 							"Win32",
 							"Linux"
 						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "Netcode Unit Test - Unreal Engine 4",
-				"Description": "Exploit unit tests for UE4 and some base UE4 games, based on the Netcode Unit Test framework",
-				"Category": "Networking",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "http://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "NUTUnrealEngine4",
-						"Type": "Developer",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Win32",
-							"Linux"
-						]
-					}
-				],
-				"Plugins": [
-					{
-						"Name": "NetcodeUnitTest",
-						"Enabled": true
 					}
 				]
 			}

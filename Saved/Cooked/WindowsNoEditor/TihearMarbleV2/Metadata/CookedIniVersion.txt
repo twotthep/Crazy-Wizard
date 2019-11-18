@@ -1292,6 +1292,7 @@ Windows.Engine:/Script/Engine.PhysicsSettings:DefaultBroadphaseSettings:0=(bUseM
 Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:TargetedRHIs:0=PCD3D_SM5
 Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:TargetedRHIs:1=PCD3D_SM4
 Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:MinimumOSVersion:0=MSOS_Vista
+Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:DefaultGraphicsRHI:0=DefaultGraphicsRHI_DX12
 Windows.Engine:/Script/WindowsMixedRealityRuntimeSettings.WindowsMixedRealityRuntimeSettings:RemoteHoloLensIP:0=
 Windows.Engine:/Script/WindowsMixedRealityRuntimeSettings.WindowsMixedRealityRuntimeSettings:MaxBitrate:0=4000
 Windows.Engine:/Script/MacTargetPlatform.MacTargetSettings:MaxShaderLanguageVersion:0=3

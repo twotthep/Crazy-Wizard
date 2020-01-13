@@ -9,3 +9,4 @@ Saved/Logs/TihearMarbleV2.log
 Intermediate/AssetRegistryCache/866581fd.bin
 Intermediate/CachedAssetRegistry.bin
 Binaries/Win64/TihearMarbleV2-Win64-Shipping.exe
+*.dSYM

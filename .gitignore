@@ -10,3 +10,8 @@ Intermediate/AssetRegistryCache/866581fd.bin
 Intermediate/CachedAssetRegistry.bin
 Binaries/Win64/TihearMarbleV2-Win64-Shipping.exe
 *.dSYM
+Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/UnitTest.ini
+Intermediate/Config/CoalescedSourceConfigs/UnitTestStats.ini
+Intermediate/ReimportCache/3688439234.bin

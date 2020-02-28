@@ -3,19 +3,20 @@
 	"Platform": "Win64",
 	"Configuration": "Shipping",
 	"TargetType": "Game",
+	"Architecture": "",
 	"Project": "../../TihearMarbleV2.uproject",
 	"Launch": "$(ProjectDir)/Binaries/Win64/TihearMarbleV2-Win64-Shipping.exe",
 	"Version": 
 	{
 		"MajorVersion": 4,
-		"MinorVersion": 22,
-		"PatchVersion": 3,
-		"Changelist": 7053642,
-		"CompatibleChangelist": 5660361,
+		"MinorVersion": 23,
+		"PatchVersion": 1,
+		"Changelist": 9631420,
+		"CompatibleChangelist": 8386587,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 1,
-		"BranchName": "++UE4+Release-4.22",
-		"BuildId": "5660361",
+		"BranchName": "++UE4+Release-4.23",
+		"BuildId": "8386587",
 		"BuildVersion": ""
 	},
 	"BuildProducts": [
@@ -66,6 +67,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Editor/CurveEditorTools/CurveEditorTools.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin",
 			"Type": "UFS"
 		},
@@ -86,11 +91,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/AppleImageUtils/AppleImageUtils.uplugin",
+			"Path": "$(EngineDir)/Plugins/Experimental/AutomationUtils/AutomationUtils.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/AppleVision/AppleVision.uplugin",
+			"Path": "$(EngineDir)/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -106,15 +111,15 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AvfMedia/AvfMedia.uplugin",
 			"Type": "UFS"
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Media/ImgMedia/ImgMedia.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Media/LinearTimecode/LinearTimecode.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -159,6 +164,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AppleImageUtils/AppleImageUtils.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -1174,6 +1183,106 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/ArrowBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/BoxEdgeHighlight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CalloutBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CalloutBox2.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CircleBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/CircleBox2.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/Roboto-Bold.ttf",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/RoundedBoxBorder.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/RoundedTileFaded.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SolidWhite.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SquareBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/SquigglyBox.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/Tile_Highlight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/Underline.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/ping.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_glow.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_head.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_head_glow.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_highlight.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_shadow.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/pin/pin_stick.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/selectionbar/selectionbar_0.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/selectionbar/selectionbar_1.png",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Content/Slate/Old/Tiles/selectionbar/selectionbar_2.png",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Content/Slate/Testing/BrushWireframe.png",
 			"Type": "UFS"
 		},
@@ -1318,7 +1427,7 @@
 			"Type": "DebugNonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll",
+			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll",
 			"Type": "NonUFS"
 		},
 		{

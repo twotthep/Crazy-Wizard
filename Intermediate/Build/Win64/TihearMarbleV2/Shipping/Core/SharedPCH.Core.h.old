@@ -41,7 +41,7 @@
 #define OVERRIDE_PLATFORM_HEADER_NAME Windows
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY "../../../../../../Program Files/Epic Games/UE_4.23/Engine/"
+#define UE_ENGINE_DIRECTORY "C:/Program Files/Epic Games/UE_4.23/Engine/"
 #define UE_IS_ENGINE_MODULE 1
 #define UE_ENABLE_ICU 1
 #define WITH_VS_PERF_PROFILER 0

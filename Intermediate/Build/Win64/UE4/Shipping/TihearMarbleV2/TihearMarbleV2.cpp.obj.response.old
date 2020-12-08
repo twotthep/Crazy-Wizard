@@ -62,20 +62,20 @@
 /I Runtime\TraceLog
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Private
-/I C:\Users\twott\Desktop\Crazy_Wizard\Intermediate
-/I C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
+/I "D:\OneDrive\Thammasat\Crazy Wizard\Intermediate"
+/I "D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Source"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Build\Win64\TihearMarbleV2\Shipping\Core\SharedPCH.Core.h"
-/Yu"C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Build\Win64\TihearMarbleV2\Shipping\Core\SharedPCH.Core.h"
-/Fp"C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Build\Win64\TihearMarbleV2\Shipping\Core\SharedPCH.Core.h.pch"
-"C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Source\TihearMarbleV2.cpp"
-/FI"C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Build\Win64\UE4\Shipping\TihearMarbleV2\Definitions.TihearMarbleV2.h"
-/Fo"C:\Users\twott\Desktop\Crazy_Wizard\Intermediate\Build\Win64\UE4\Shipping\TihearMarbleV2\TihearMarbleV2.cpp.obj"
+/FI"D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Build\Win64\TihearMarbleV2\Shipping\Core\SharedPCH.Core.h"
+/Yu"D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Build\Win64\TihearMarbleV2\Shipping\Core\SharedPCH.Core.h"
+/Fp"D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Build\Win64\TihearMarbleV2\Shipping\Core\SharedPCH.Core.h.pch"
+"D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Source\TihearMarbleV2.cpp"
+/FI"D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Build\Win64\UE4\Shipping\TihearMarbleV2\Definitions.TihearMarbleV2.h"
+/Fo"D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Build\Win64\UE4\Shipping\TihearMarbleV2\TihearMarbleV2.cpp.obj"
 /TP
 /GR-
 /W4

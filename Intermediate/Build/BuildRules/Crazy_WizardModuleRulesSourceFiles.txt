@@ -1,0 +1,2 @@
+D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Source\Crazy_Wizard.Build.cs
+D:\OneDrive\Thammasat\Crazy Wizard\Intermediate\Source\Crazy_Wizard.Target.cs
